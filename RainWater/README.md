@@ -1,9 +1,9 @@
-# Capturing Rainwater
+# Capturing Rainwater 🌧
 
 
 Problem: Imagine a very heavy rainstorm over a highway that has many potholes and cracks. The rainwater will collect in the empty spaces in the road, creating puddles. Each puddle can only be as high as the road around it, as any excess water will just flow away. Calculate how much rainwater would be trapped in the empty spaces. 
 
-# Solutions
+# Solutions 
 
 To get the amount of rainwater for each hole, we will find the different between the lower of the highest bars to its left and right, and the height of the index itself, assuming that our input is an array (which it is).
 
